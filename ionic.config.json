@@ -1,0 +1,8 @@
+{
+  "name": "EduI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "604afb92"
+}
